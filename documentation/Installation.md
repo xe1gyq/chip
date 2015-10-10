@@ -60,7 +60,7 @@ http://download.virtualbox.org/virtualbox/4.3.30/Oracle_VM_VirtualBox_Extension_
 ## Issues
 
     # usermod -a -G dialout vagrant
-    
+    # adduser vagrant dialout
 
 
 - http://pastebin.com/w5pDhHAe
