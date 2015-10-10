@@ -50,6 +50,7 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
     $ vagrant up
     $ vagrant ssh
     vagrant@vagrant-ubuntu-trusty-32:~$ 
+    vagrant@vagrant-ubuntu-trusty-32:~$ ./CHIP-SDK/setup_ubuntu1404.sh
 
 
 
