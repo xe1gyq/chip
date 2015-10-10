@@ -10,8 +10,11 @@
     [35377.984792] usb 2-4.1: Manufacturer: Linux 4.2.0-rc1 with musb-hdrc
     [35377.994941] cdc_acm 2-4.1:2.0: This device cannot do calls on its own. It is not a modem.
     [35377.995007] cdc_acm 2-4.1:2.0: ttyACM0: USB ACM device
-
     $ cu -l /dev/ttyACM0 -s 115200
+
+
+## At CHIP
+
     # hwtest
 
     ############################################################
