@@ -102,11 +102,9 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 
     # apt-get install install vagrant
 
-
 ### Install Git
 
     # apt-get install git
-
 
 ### Virtual Machine Startup
 
