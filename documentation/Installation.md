@@ -8,5 +8,6 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     $ cd sunxi-tools
     $ make
     # ln -s $PWD/fel /usr/local/bin/fel
+    
 
 https://github.com/NextThingCo/
