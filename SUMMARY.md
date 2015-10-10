@@ -4,5 +4,5 @@
 * [Installation](documentation/Installation.md)
 * [StartUp](documentation/Startup.md)
 * [WiFi](documentation/WiFi.md)
-* Building
+* [Building](documentation/Building.md)
 
