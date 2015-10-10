@@ -56,7 +56,13 @@ http://download.virtualbox.org/virtualbox/4.3.30/Oracle_VM_VirtualBox_Extension_
     vagrant@vagrant-ubuntu-trusty-32:~$ 
     vagrant@vagrant-ubuntu-trusty-32:~$ ./CHIP-SDK/setup_ubuntu1404.sh
 
-http://pastebin.com/w5pDhHAe
+
+## Issues
+
+    # usermod -a -G dialout vagrant
+    
 
 
-https://github.com/NextThingCo/
+- http://pastebin.com/w5pDhHAe
+- https://github.com/NextThingCo/
+- https://bbs.nextthing.co/t/unable-to-flash-alpha-c-h-i-p/544/41
