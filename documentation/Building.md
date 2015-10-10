@@ -3,7 +3,10 @@ Building
 
 ## Buildroot
 
-    vagrant@vagrant-ubuntu-trusty-32:~$ 
+    
+    $ cd CHIP-SDK
+    $ vagrant up
+    $ vagrant sshvagrant@vagrant-ubuntu-trusty-32:~$ 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-buildroot
     vagrant@vagrant-ubuntu-trusty-32:~$ make chip_defconfig
     vagrant@vagrant-ubuntu-trusty-32:~$ make nconfig
