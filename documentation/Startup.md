@@ -3,6 +3,13 @@
 ## At Host
 
     $ dmesg
+    [36594.708877] usb 2-4.1: USB disconnect, device number 21
+
+
+    [36616.428097] usb 2-4.1: new full-speed USB device number 22 using ehci-pci
+    [36616.537097] usb 2-4.1: New USB device found, idVendor=1f3a, idProduct=efe8
+    [36616.537102] usb 2-4.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+
     [35377.892165] usb 2-4.1: new high-speed USB device number 20 using ehci-pci
     [35377.984784] usb 2-4.1: New USB device found, idVendor=0525, idProduct=a4a7
     [35377.984787] usb 2-4.1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
