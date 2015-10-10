@@ -28,6 +28,7 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
     
     # nano /etc/apt/sources.list
     deb http://download.virtualbox.org/virtualbox/debian vivid contrib
+    # cd
     # wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | apt-key add -
     # apt-get update
     # apt-get install virtualbox-5.0
