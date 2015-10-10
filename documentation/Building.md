@@ -14,6 +14,7 @@ Building
 
 
 [Flash C.H.I.P. from C.H.I.P. SDK! (Virtual Machine) ](https://nextthingco.zendesk.com/hc/en-us/articles/210864097-Flash-C-H-I-P-from-C-H-I-P-SDK-Virtual-Machine-)
+[Free Electrons Buildroot Training ](http://free-electrons.com/doc/training/buildroot/buildroot-slides.pdf)
 
 ### BuildRoot Copy
 
