@@ -42,4 +42,15 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
 ### Install Git
 
     # apt-get install git
+
+
+### Virtual Machine
+
+    $ cd CHIP-SDK
+    $ vagrant up
+    $ vagrant ssh
+    vagrant@vagrant-ubuntu-trusty-32:~$ 
+
+
+
 https://github.com/NextThingCo/
