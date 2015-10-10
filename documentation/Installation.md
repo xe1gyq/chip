@@ -20,6 +20,30 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     == upload images ==
     == execute the main u-boot binary ==
 
+    $ cu -l /dev/ttyACM0 -s 115200
+
+
+## At CHIP
+
+    # hwtest
+
+    ############################################################
+    # [ CHIP HW TEST ]                                         #
+    ############################################################
+    
+    # Turn on wlan0...OK
+    # Turn on wlan1...OK
+    # Hardware list...OK      
+    # I2C bus 0...OK
+    # I2C bus 1...OK
+    # I2C bus 2...OK
+    # testing AXP209 on I2C bus 0...OK
+    # GPIO expander test...OK
+    # Doing 10s stress test...OK
+    # Wifi enumeration test...OK
+    ### ALL TESTS PASSED ###
+
+
 https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-SDK-
 
 ## CHIP SDK
