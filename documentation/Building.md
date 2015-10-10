@@ -25,6 +25,9 @@ Building
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/u-boot-dtb.bin .
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/uboot-env.bin .
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/zImage .
+    <Disconnect CHIP>
+    <Connect CHIP>
+    
 
 
 ## Chroot Debian Tree
