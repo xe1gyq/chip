@@ -18,6 +18,7 @@ Building
 ### BuildRoot Copy
 
     vagrant@vagrant-ubuntu-trusty-32:~/CHIP-buildroot$ scp -r ../CHIP-buildroot/output/images/ xe1gyq@192.168.1.73:/home/xe1gyq/
+    CHIP-tools/.firmware/images# 
 
 ## Chroot Debian Tree
 
