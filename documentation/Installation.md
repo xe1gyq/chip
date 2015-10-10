@@ -56,6 +56,7 @@ http://download.virtualbox.org/virtualbox/4.3.30/Oracle_VM_VirtualBox_Extension_
     vagrant@vagrant-ubuntu-trusty-32:~$ 
     vagrant@vagrant-ubuntu-trusty-32:~$ ./CHIP-SDK/setup_ubuntu1404.sh
 
+http://pastebin.com/w5pDhHAe
 
 
 https://github.com/NextThingCo/
