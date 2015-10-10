@@ -62,7 +62,7 @@ http://download.virtualbox.org/virtualbox/4.3.30/Oracle_VM_VirtualBox_Extension_
     # usermod -a -G dialout vagrant
     # adduser vagrant dialout
     # chmod 666 /dev/ttyACM0
-    
+    # cu -l /dev/ttyACM0 -s 115200
 
 
 - http://pastebin.com/w5pDhHAe
