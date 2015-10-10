@@ -1,5 +1,5 @@
 # Summary
 
 * [Installation](documentation/Installation.md)
-* StartUp
+* [StartUp](documentation/Startup.md)
 
