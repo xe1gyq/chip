@@ -11,6 +11,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     # cd .. 
     # git clone http://github.com/NextThingCo/CHIP-tools 
     # cd CHIP-tools
+    # sudo ./chip-update-firmware.sh
     
 
 https://github.com/NextThingCo/
