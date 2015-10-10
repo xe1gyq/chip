@@ -32,6 +32,13 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     == upload images ==
     == execute the main u-boot binary ==
     $ cu -l /dev/ttyACM0 -s 115200
+    Connected.
+    
+    The source code can be downloaded from:
+    http://opensource.nextthing.co/chip/buildroot/stable/68/build68.tar.gz
+    
+    chip login: 
+
 
 ## At CHIP
 
