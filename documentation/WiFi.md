@@ -35,6 +35,16 @@
     Connected wifi_8c18d9f26f78_494e46494e4954554d666a7068_managed_psk
     connmanctl> quit 
     # ifconfig
-
+    # ping -c 4 8.8.8.8
+    PING 8.8.8.8 (8.8.8.8): 56 data bytes
+    64 bytes from 8.8.8.8: seq=0 ttl=59 time=45.729 ms
+    64 bytes from 8.8.8.8: seq=1 ttl=59 time=32.499 ms
+    64 bytes from 8.8.8.8: seq=2 ttl=59 time=168.429 ms
+    64 bytes from 8.8.8.8: seq=3 ttl=59 time=42.329 ms
+    
+    --- 8.8.8.8 ping statistics ---
+    4 packets transmitted, 4 packets received, 0% packet loss
+    round-trip min/avg/max = 32.499/72.246/168.429 ms
+    
 
 https://nextthingco.zendesk.com/hc/en-us/articles/209758368-Connecting-C-H-I-P-to-a-Wireless-Network
