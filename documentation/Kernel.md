@@ -1,4 +1,5 @@
-    # Kernel
+Kernel
+==
 
     # dmesg
     [    0.000000] Booting Linux on physical CPU 0x0
