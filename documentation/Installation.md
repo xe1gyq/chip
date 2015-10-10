@@ -96,7 +96,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 
 ### Install VirtualBox Extension Pack 4.3
 
-http://download.virtualbox.org/virtualbox/4.3.30/Oracle_VM_VirtualBox_Extension_Pack-4.3.30-101610.vbox-extpack
+[VirtualBox Extension Pack 4.3](http://download.virtualbox.org/virtualbox/4.3.30/Oracle_VM_VirtualBox_Extension_Pack-4.3.30-101610.vbox-extpack)
 
 ### Install Vagrant
 
