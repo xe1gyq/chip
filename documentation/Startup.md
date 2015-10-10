@@ -1,6 +1,6 @@
 # StartUp
 
-## Host
+## At Host
 
     $ dmesg
     [35377.892165] usb 2-4.1: new high-speed USB device number 20 using ehci-pci
