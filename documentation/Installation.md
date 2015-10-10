@@ -8,6 +8,9 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     $ cd sunxi-tools
     $ make
     # ln -s $PWD/fel /usr/local/bin/fel
+    # cd .. 
+    # git clone http://github.com/NextThingCo/CHIP-tools 
+    # cd CHIP-tools
     
 
 https://github.com/NextThingCo/
