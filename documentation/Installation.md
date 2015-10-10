@@ -33,6 +33,8 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
     # apt-get install virtualbox-5.0
     # apt-get install dkms
 
-    Install Vagrant
+### Install Vagrant
+
+    # apt-get install install Vagrant
 
 https://github.com/NextThingCo/
