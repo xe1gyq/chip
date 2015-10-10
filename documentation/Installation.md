@@ -16,6 +16,16 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     # cd CHIP-tools
     # sudo ./chip-update-firmware.sh
     ...
+    589824 bytes (590 kB) copied, 0.0244674 s, 24.1 MB/s
+    12+0 records in
+    12+0 records out
+    196608 bytes (197 kB) copied, 0.0348495 s, 5.6 MB/s
+    Image Name:   flash CHIP
+    Created:      Sat Oct 10 07:49:05 2015
+    Image Type:   ARM Linux Script (uncompressed)
+    Data Size:    856 Bytes = 0.84 kB = 0.00 MB
+    Load Address: 00000000
+    Entry Point:  00000000
     Contents:
        Image 0: 848 Bytes = 0.83 kB = 0.00 MB
     == upload the SPL to SRAM and execute it ==
