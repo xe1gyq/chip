@@ -38,7 +38,6 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     http://opensource.nextthing.co/chip/buildroot/stable/68/build68.tar.gz
     
     chip login: root
-    chip login: root
     Password: 
     # hwtest
     
