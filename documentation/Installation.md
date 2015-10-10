@@ -14,7 +14,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     # cd .. 
     # git clone http://github.com/NextThingCo/CHIP-tools 
     # cd CHIP-tools
-    # sudo ./chip-update-firmware.sh
+    # ./chip-update-firmware.sh
     ...
     589824 bytes (590 kB) copied, 0.0244674 s, 24.1 MB/s
     12+0 records in
