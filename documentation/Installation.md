@@ -15,8 +15,8 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     ...
     Contents:
        Image 0: 848 Bytes = 0.83 kB = 0.00 MB
-       == upload the SPL to SRAM and execute it ==
-       == upload images ==
-       == execute the main u-boot binary ==
+    == upload the SPL to SRAM and execute it ==
+    == upload images ==
+    == execute the main u-boot binary ==
 
 https://github.com/NextThingCo/
