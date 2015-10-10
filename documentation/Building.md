@@ -27,7 +27,7 @@ Building
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/zImage .
     <Disconnect CHIP>
     <Connect CHIP>
-    
+    CHIP-tools$ ./chip-update-firmware.sh
 
 
 ## Chroot Debian Tree
