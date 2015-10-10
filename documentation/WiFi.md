@@ -37,4 +37,4 @@
     # 
 
 
-    
+https://nextthingco.zendesk.com/hc/en-us/articles/209758368-Connecting-C-H-I-P-to-a-Wireless-Network
