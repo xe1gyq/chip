@@ -23,6 +23,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-SDK-
 
     Install VirtualBox 4.3
+    
     Install Vagrant
 
 https://github.com/NextThingCo/
