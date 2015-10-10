@@ -18,7 +18,7 @@ Building
 ### BuildRoot Copy
 
     vagrant@vagrant-ubuntu-trusty-32:~/CHIP-buildroot$ scp -r ../CHIP-buildroot/output/images/ xe1gyq@192.168.1.73:/home/xe1gyq/
-    $ cd CHIP-tools/.firmware/images
+    # cd CHIP-tools/.firmware/images
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/rootfs.ubi .
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/sun5i-r8-chip.dtb .
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/sunxi-spl.bin .
