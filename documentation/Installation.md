@@ -28,6 +28,7 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
     # wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | apt-key add -
     # apt-get update
     # apt-get install virtualbox-5.0
+    # apt-get install dkms
 
     Install Vagrant
 
