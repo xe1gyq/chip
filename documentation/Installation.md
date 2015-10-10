@@ -116,6 +116,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 
 ## Issues
 
+    In Buildroot
     # usermod -a -G dialout vagrant
     # adduser vagrant dialout
     # chmod 666 /dev/ttyACM0
