@@ -5,5 +5,5 @@
 * [Building](documentation/Building.md)
 * [StartUp](documentation/Startup.md)
 * [WiFi](documentation/WiFi.md)
-* Kernel
+* [Kernel](documentation/Kernel.md)
 
