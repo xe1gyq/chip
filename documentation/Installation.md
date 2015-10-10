@@ -39,5 +39,7 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
     # apt-get install install vagrant
 
 
+### Install Git
 
+    # apt-get install git
 https://github.com/NextThingCo/
