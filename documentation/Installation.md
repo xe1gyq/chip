@@ -117,10 +117,10 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 ## Issues
 
     In Buildroot
-    # usermod -a -G dialout vagrant
-    # adduser vagrant dialout
-    # chmod 666 /dev/ttyACM0
-    # cu -l /dev/ttyACM0 -s 115200
+    vagrant@vagrant-ubuntu-trusty-32:~$ usermod -a -G dialout vagrant
+    vagrant@vagrant-ubuntu-trusty-32:~$  adduser vagrant dialout
+    vagrant@vagrant-ubuntu-trusty-32:~$  chmod 666 /dev/ttyACM0
+    vagrant@vagrant-ubuntu-trusty-32:~$  cu -l /dev/ttyACM0 -s 115200
 
 ## Links
 
