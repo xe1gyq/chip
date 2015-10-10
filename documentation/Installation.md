@@ -114,7 +114,6 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     vagrant@vagrant-ubuntu-trusty-32:~$ 
     vagrant@vagrant-ubuntu-trusty-32:~$ ./CHIP-SDK/setup_ubuntu1404.sh
 
-
 ## Issues
 
     # usermod -a -G dialout vagrant
@@ -122,6 +121,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     # chmod 666 /dev/ttyACM0
     # cu -l /dev/ttyACM0 -s 115200
 
+## Links
 
 - http://pastebin.com/w5pDhHAe
 - https://github.com/NextThingCo/
