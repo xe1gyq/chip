@@ -80,7 +80,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     ### ALL TESTS PASSED ###
 
 
-https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-SDK-
+[Installing CHIP SDK](https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-SDK-)
 
 ## CHIP SDK
 
