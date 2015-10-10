@@ -1,6 +1,13 @@
 Kernel
 ==
 
+
+RTL8723BS_BT Version
+https://github.com/lwfinger/rtl8723bs_bt.git
+
+RTL8723BS MP Driver Version (Custom Git repository)  --->                                                │
+https://github.com/NextThingCo/RTL8723BS.git) URL of custom repository 
+
     # dmesg
     [    0.000000] Booting Linux on physical CPU 0x0
     [    0.000000] Linux version 4.2.0-rc1 (ubuntu@ip-172-31-37-115) (gcc version 4.9.2 20140904 (prerelease) (crosstool-NG linaro-1.13.1-4.9-2014.09 - Linaro GCC 4.9-2014.09) ) #1 SMP Fri Oct 2 23:23:30 UTC 2015
