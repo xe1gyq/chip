@@ -19,9 +19,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     == upload the SPL to SRAM and execute it ==
     == upload images ==
     == execute the main u-boot binary ==
-
     $ cu -l /dev/ttyACM0 -s 115200
-
 
 ## At CHIP
 
