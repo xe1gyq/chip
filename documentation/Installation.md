@@ -22,7 +22,9 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 
 https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-SDK-
 
-## Install VirtualBox 4.3
+## CHIP SDK
+
+### Install VirtualBox 4.3
     
     # nano /etc/apt/sources.list
     deb http://download.virtualbox.org/virtualbox/debian vivid contrib
