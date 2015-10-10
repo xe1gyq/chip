@@ -34,7 +34,7 @@
     Passphrase? 
     Connected wifi_8c18d9f26f78_494e46494e4954554d666a7068_managed_psk
     connmanctl> quit 
-    # 
+    # ifconfig
 
 
 https://nextthingco.zendesk.com/hc/en-us/articles/209758368-Connecting-C-H-I-P-to-a-Wireless-Network
