@@ -34,6 +34,10 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
     # apt-get install virtualbox-5.0
     # apt-get install dkms
 
+### Install VirtualBox Extension Pack 4.3
+
+http://download.virtualbox.org/virtualbox/4.3.30/Oracle_VM_VirtualBox_Extension_Pack-4.3.30-101610.vbox-extpack
+
 ### Install Vagrant
 
     # apt-get install install vagrant
