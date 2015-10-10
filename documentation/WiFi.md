@@ -1,2 +1,4 @@
 # WiFi
 
+    $ connmanctl technologies
+    
