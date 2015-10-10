@@ -44,7 +44,7 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
     # apt-get install git
 
 
-### Virtual Machine
+### Virtual Machine Startup
 
     $ cd CHIP-SDK
     $ vagrant up
