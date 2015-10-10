@@ -35,6 +35,8 @@ https://nextthingco.zendesk.com/hc/en-us/articles/210863457-Installing-C-H-I-P-S
 
 ### Install Vagrant
 
-    # apt-get install install Vagrant
+    # apt-get install install vagrant
+
+
 
 https://github.com/NextThingCo/
