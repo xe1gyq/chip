@@ -55,4 +55,4 @@
           inet6 addr: fe80::8c18:d9ff:fef2:6f78/64 Scope:Link
 
 
-https://nextthingco.zendesk.com/hc/en-us/articles/209758368-Connecting-C-H-I-P-to-a-Wireless-Network
+[Connecting C.H.I.P. to a Wireless Network ](https://nextthingco.zendesk.com/hc/en-us/articles/209758368-Connecting-C-H-I-P-to-a-Wireless-Network)
