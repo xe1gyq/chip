@@ -28,6 +28,7 @@ Building
     CHIP-tools/.firmware/images# cp /home/xe1gyq/images/zImage .
     <Disconnect CHIP>
     <Connect CHIP>
+    # cd CHIP-tools
     CHIP-tools$ ./chip-update-firmware.sh
 
 
