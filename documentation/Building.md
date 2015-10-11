@@ -30,6 +30,7 @@ Building
     <Connect CHIP>
     # cd CHIP-tools
     CHIP-tools$ ./chip-update-firmware.sh
+    CHIP-tools$ cu -l /dev/ttyACM0 -s 115200
 
 
 ## Chroot Debian Tree
