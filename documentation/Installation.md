@@ -26,6 +26,9 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     $ git clone http://github.com/NextThingCo/CHIP-tools
     $ git pull
     $ cd CHIP-tools
+    
+
+    
     # ./chip-update-firmware.sh
     ...
     589824 bytes (590 kB) copied, 0.0244674 s, 24.1 MB/s
