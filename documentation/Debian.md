@@ -61,13 +61,14 @@ sunxi-codec as hardware
     
 - [Next Thing Co. Sound Output on Debian ](https://nextthingco.zendesk.com/hc/en-us/articles/212946707-Sound-Output-on-Debian)
 
-## VNC Server
+## VNC Server @ CHIP
 
     root@chip:~# apt-get install vnc4server
     chip@chip:~$ vnc4passwd 
     Password:
     Verify:
-    
+
+## VNC Viewer @ Host 
 
 
 ## Xe1Gyq Stuff
