@@ -1,6 +1,6 @@
 # StartUp
 
-## At Host, Buildroot
+## At Host
 
     $ dmesg
     [35340.574607] usb 2-4.1: USB disconnect, device number 15
