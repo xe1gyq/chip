@@ -45,7 +45,6 @@
     [36793.124181] usb 2-4-port1: unable to enumerate USB device
     $ cu -l /dev/ttyACM0 -s 115200
 
-
 ## At CHIP
 
     # hwtest
