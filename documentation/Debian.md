@@ -31,7 +31,7 @@ sunxi-codec as hardware
     card 0: sunxicodec [sunxi-codec], device 0: CDC PCM Codec-0 []
       Subdevices: 1/1
       Subdevice #0: subdevice #0
-    root@chip:~# aplay -lL
+    root@chip:~# arecord -lL
     ...
     **** List of CAPTURE Hardware Devices ****
     card 0: sunxicodec [sunxi-codec], device 0: CDC PCM Codec-0 []
