@@ -8,6 +8,13 @@ https://github.com/lwfinger/rtl8723bs_bt.git
 RTL8723BS MP Driver Version (Custom Git repository)  --->                                                │
 https://github.com/NextThingCo/RTL8723BS.git) URL of custom repository 
 
+    root@chip:~# dmesg | grep sunxi
+    [    1.660000] sunxi-wdt 1c20c90.watchdog: Watchdog enabled (timeout=16 sec, nowayout=0)
+    [    1.680000] sunxi-mmc 1c0f000.mmc: No vqmmc regulator found
+    [    1.730000] sunxi-mmc 1c0f000.mmc: base:0xe00b6000 irq:20
+    [    1.760000] sunxi-codec 1c22c00.codec: Codec <-> 1c22c00.codec mapping ok
+    [    1.770000] sunxi-mmc 1c0f000.mmc: smc 0 err, cmd 8, RTO !!
+    [   17.600000]   #0: sunxi-codec
     # dmesg
     [    0.000000] Booting Linux on physical CPU 0x0
     [    0.000000] Linux version 4.2.0-rc1 (ubuntu@ip-172-31-37-115) (gcc version 4.9.2 20140904 (prerelease) (crosstool-NG linaro-1.13.1-4.9-2014.09 - Linaro GCC 4.9-2014.09) ) #1 SMP Fri Oct 2 23:23:30 UTC 2015
