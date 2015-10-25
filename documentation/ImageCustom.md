@@ -7,7 +7,7 @@ Image Custom
     $ vagrant up
     $ vagrant ssh
 
-## Buildroot Image
+## Buildroot Image, Building
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-buildroot
     vagrant@vagrant-ubuntu-trusty-32:~$ make chip_defconfig
@@ -19,6 +19,10 @@ Image Custom
     mkdir -p /home/vagrant/CHIP-buildroot/output/target
     ...
     vagrant@vagrant-ubuntu-trusty-32:~$ ls /home/vagrant/CHIP-buildroot/.config
+
+## Buildroot Image, Flashing
+
+
 
 ### BuildRoot Flash, Old Method
 
