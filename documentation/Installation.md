@@ -15,6 +15,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     $ git clone http://github.com/linux-sunxi/sunxi-tools
     $ cd sunxi-tools
     $ make
+    # sudo rm -f /usr/local/bin/fel
     # ln -s $PWD/fel /usr/local/bin/fel
     or
     # cp fel /usr/local/bin/
