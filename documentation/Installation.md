@@ -76,7 +76,12 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 
 ### Flash Debian
     
-    # ./chip-update-firmware.sh -d
+    # sudo ./chip-update-firmware.sh -d
+    debian selected
+    ROOTFS_URL=http://opensource.nextthing.co.s3.amazonaws.com/chip/debian/stable/38
+    BUILD=38
+    ...
+
     
 ## At CHIP
 
