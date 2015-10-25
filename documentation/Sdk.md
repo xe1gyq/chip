@@ -45,14 +45,6 @@ SDK
     $ vagrant up
     $ vagrant ssh
 
-## Intermmediate Steps
-
-    In Buildroot
-    vagrant@vagrant-ubuntu-trusty-32:~$ usermod -a -G dialout vagrant
-    vagrant@vagrant-ubuntu-trusty-32:~$ adduser vagrant dialout
-    vagrant@vagrant-ubuntu-trusty-32:~$ chmod 666 /dev/ttyACM0
-    vagrant@vagrant-ubuntu-trusty-32:~$ cu -l /dev/ttyACM0 -s 115200
-
 ## Buildroot
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
