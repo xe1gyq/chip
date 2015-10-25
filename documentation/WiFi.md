@@ -83,4 +83,4 @@ WiFi
        INFINITUM6d6f    Infra  4     54 Mbit/s  17      ▂___  WPA1 WPA2 
        --               Infra  1     54 Mbit/s  72      ▂▄▆_  --        
        INFINITUME75B40  Infra  6     54 Mbit/s  29      ▂___  WPA1 WPA2 
-
+    root@chip:~# nmcli device wifi connect INFINITUMfjph password 1c2899dfda ifname wlan0
