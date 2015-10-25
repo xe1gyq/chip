@@ -137,7 +137,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 ## Buildroot
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
-    vagrant@vagrant-ubuntu-trusty-32:~$ ./chip-update-firmware.sh
+    vagrant@vagrant-ubuntu-trusty-32:~$ ./chip-update-firmware.sh -d
 
 ## Issues
 
