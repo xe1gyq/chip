@@ -22,7 +22,8 @@ Image Custom
 
 ## Buildroot Image, Flashing
 
-
+    vagrant@vagrant-ubuntu-trusty-32:~$
+    
 
 ### BuildRoot Flash, Old Method
 
