@@ -99,14 +99,23 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     == write ubi ==
     flashing............................OK
     ...
-    $ cu -l /dev/ttyACM0 -s 115200
+    $ sudo cu -l /dev/ttyACM17 -s 115200
+    [sudo] password for xe1gyq: 
     Connected.
-    
-    The source code can be downloaded from:
-    http://opensource.nextthing.co/chip/buildroot/stable/68/build68.tar.gz
-    
+    ebian GNU/Linux 8 chip ttyGS0
+
     chip login: root
     Password: 
+    Linux chip 4.2.0-rc1 #1 SMP Wed Oct 21 20:43:17 UTC 2015 armv7l
+    
+    The programs included with the Debian GNU/Linux system are free software;
+    the exact distribution terms for each program are described in the
+    individual files in /usr/share/doc/*/copyright.
+    
+    Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+    permitted by applicable law.
+    root@chip:~# 
+
     # hwtest
     
     
