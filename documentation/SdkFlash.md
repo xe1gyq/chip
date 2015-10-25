@@ -1,7 +1,7 @@
 SDK Flashing
 ==
 
-### 
+# Virtual Machine Startup
 
     # cd CHIP-SDK
     # vagrant up
