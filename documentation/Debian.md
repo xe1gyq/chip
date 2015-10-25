@@ -6,7 +6,7 @@ Debian
     root@chip:~# date -s "10/25/2015 18:41:30"
     root@chip:~# apt-get update
     root@chip:~# apt-get upgrade
-    root@chip:~# apt-get install wget htop mplayer
+    root@chip:~# apt-get install wget htop mplayer python-pip
     root@chip:~# dpkg-reconfigure tzdata # TimeZone
     root@chip:~# apt-get install xfce4
     root@chip:~# apt-get install -f
