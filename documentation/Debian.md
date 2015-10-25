@@ -1,6 +1,8 @@
 Debian
 ==
 
+## First Steps
+
     root@chip:~# apt-get update
     root@chip:~# apt-get upgrade
     root@chip:~# apt-get install wget htop
@@ -19,7 +21,7 @@ Debian
     root@chip:~# apt-get install libasound2 alsa-utils
     root@chip:~# alsamixer
     
-Audio
+## Audio
 
 sunxi-codec as hardware
     
