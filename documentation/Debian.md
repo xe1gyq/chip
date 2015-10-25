@@ -63,7 +63,7 @@ sunxi-codec as hardware
 
 ## VNC
 
-### VNC Server @ CHIP X Server
+### VNC Server @ CHIP X Desktop
 
     root@chip:~# apt-get install vnc4server
     chip@chip:~$ vnc4passwd 
@@ -91,7 +91,7 @@ sunxi-codec as hardware
     exit
     xe1gyq@jessie:~$ xvnc4viewer 192.168.1.77:1
 
-### VNC Server @ CHIP X Server
+### VNC Server @ CHIP Default Desktop
 
     chip@chip:~$ vnc4server -kill :1
     Killing Xvnc4 process ID 18807
