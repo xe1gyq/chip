@@ -22,8 +22,8 @@ Image Custom
 
 ## Buildroot Image, Flashing
 
-    vagrant@vagrant-ubuntu-trusty-32:~$
-    
+    vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
+    vagrant@vagrant-ubuntu-trusty-32:~$ BUILDROOT_OUTPUT_DIR=../CHIP-buildroot/output ./chip-fel-flash.sh
 
 ### BuildRoot Flash, Old Method
 
