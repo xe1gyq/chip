@@ -56,6 +56,6 @@ sunxi-codec as hardware
 - [Next Thing Co. Sound Output on Debian ](https://nextthingco.zendesk.com/hc/en-us/articles/212946707-Sound-Output-on-Debian)
 
 
-## Xe1Gyq
+## Xe1Gyq Stuff
 
     root@chip:~# apt-get update
