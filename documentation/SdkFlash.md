@@ -17,7 +17,6 @@ SDK Flashing
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-SDK
     vagrant@vagrant-ubuntu-trusty-32:~$ git pull https://github.com/NextThingCo/CHIP-SDK.git
     
-
 ## Buildroot
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
