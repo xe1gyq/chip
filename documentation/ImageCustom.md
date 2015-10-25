@@ -8,7 +8,7 @@ Image Custom
     $ vagrant up
     $ vagrant ssh
 
-## Buildroot & Debian
+## Buildroot
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-buildroot
     vagrant@vagrant-ubuntu-trusty-32:~$ make chip_defconfig
