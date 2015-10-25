@@ -79,7 +79,7 @@ sunxi-codec as hardware
     Starting applications specified in /home/chip/.vnc/xstartup
     Log file is /home/chip/.vnc/chip:1.log
 
-### VNC Client @ Host
+### VNC Viewer @ Host
     
     root@jessie:/home/xe1gyq# apt-get install xvnc4viewer
     Reading package lists... Done
@@ -90,10 +90,6 @@ sunxi-codec as hardware
     root@jessie:/home/xe1gyq# exit
     exit
     xe1gyq@jessie:~$ xvnc4viewer 10.1.1.12:1
-
-
-## VNC Viewer @ Host
-
 
 
 
