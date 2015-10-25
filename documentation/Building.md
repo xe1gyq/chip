@@ -35,7 +35,7 @@ Building
     # cd CHIP-tools
     CHIP-tools$ ./chip-update-firmware.sh
     CHIP-tools$ cu -l /dev/ttyACM0 -s 115200
-    <To validate>
+    <To Validate>
     # cd ~/CHIP-tools
     # BUILDROOT_OUTPUT_DIR=../CHIP-buildroot/output ./chip-fel-flash.sh
 
