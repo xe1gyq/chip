@@ -72,4 +72,5 @@ sunxi-codec as hardware
     chip@chip:~/Intel.IoT.Roadshow$ git clone https://github.com/xe1gyq/core.git
     root@chip:/home/chip/Intel.IoT.Roadshow/2015# apt-get install python-pip
     root@chip:/home/chip/Intel.IoT.Roadshow/2015# pip install plotly
+    chip@chip:~/Intel.IoT.Roadshow/2015$ python core/xplotly.py
     
