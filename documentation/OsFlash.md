@@ -88,6 +88,16 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     gcc -o spl-image-builder spl-image-builder.o
     /home/xe1gyq/Projects/chip/CHIP-tools
     ...
+    == upload the SPL to SRAM and execute it ==
+    waiting for fel...............................OK
+    == upload spl ==
+    == upload u-boot ==
+    == upload u-boot script ==
+    == upload ubi ==
+    100% [============================================================] 
+    == execute the main u-boot binary ==
+    == write ubi ==
+    flashing............................OK
 
     $ cu -l /dev/ttyACM0 -s 115200
     Connected.
