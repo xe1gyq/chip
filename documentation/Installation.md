@@ -81,6 +81,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     ROOTFS_URL=http://opensource.nextthing.co.s3.amazonaws.com/chip/debian/stable/38
     BUILD=38
     ...
+    # cu -l /dev/ttyACM0 -s 115200
 
     
 ## At CHIP
