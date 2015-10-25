@@ -67,8 +67,19 @@ sunxi-codec as hardware
     chip@chip:~$ vnc4passwd 
     Password:
     Verify:
+    chip@chip:~$ vnc4server -geometry 800x600 -depth 24
+    xauth:  file /home/chip/.Xauthority does not exist
+    xauth: (stdin):1:  bad display name "chip:1" in "add" command
+    
+    New 'chip:1 (chip)' desktop is chip:1
+    
+    Creating default startup script /home/chip/.vnc/xstartup
+    Starting applications specified in /home/chip/.vnc/xstartup
+    Log file is /home/chip/.vnc/chip:1.log
 
-## VNC Viewer @ Host 
+## VNC Viewer @ Host
+
+
 
 
 ## Xe1Gyq Stuff
