@@ -81,8 +81,33 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     ROOTFS_URL=http://opensource.nextthing.co.s3.amazonaws.com/chip/debian/stable/38
     BUILD=38
     ...
-    # cu -l /dev/ttyACM0 -s 115200
-
+    $ cu -l /dev/ttyACM0 -s 115200
+    Connected.
+    
+    The source code can be downloaded from:
+    http://opensource.nextthing.co/chip/buildroot/stable/68/build68.tar.gz
+    
+    chip login: root
+    Password: 
+    # hwtest
+    
+    
+    ############################################################
+    # [ CHIP HW TEST ]                                         #
+    ############################################################
+    
+    # Turn on wlan0...OK
+    # Turn on wlan1...OK
+    # Hardware list...OK      
+    # I2C bus 0...OK
+    # I2C bus 1...OK
+    # I2C bus 2...OK
+    # testing AXP209 on I2C bus 0...OK
+    # GPIO expander test...OK
+    # Doing 10s stress test...OK
+    # Wifi enumeration test...OK
+    ### ALL TESTS PASSED ###
+    # 
     
 ### At CHIP
 
