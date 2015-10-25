@@ -84,7 +84,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     # cu -l /dev/ttyACM0 -s 115200
 
     
-## At CHIP
+### At CHIP
 
     # hwtest
 
