@@ -126,6 +126,11 @@ cd ~/CHIP-tools
 ./chip-update-firmware.sh
 
 
+## Buildroot
+
+cd ~/CHIP-tools
+./chip-update-firmware.sh
+
 ## Issues
 
     In Buildroot
