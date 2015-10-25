@@ -54,3 +54,8 @@ sunxi-codec as hardware
     chip@chip:~$ mplayer test.mp3
     
 - [Next Thing Co. Sound Output on Debian ](https://nextthingco.zendesk.com/hc/en-us/articles/212946707-Sound-Output-on-Debian)
+
+
+## First Steps
+
+    root@chip:~# apt-get update
