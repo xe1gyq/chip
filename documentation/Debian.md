@@ -32,6 +32,7 @@ sunxi-codec as hardware
       Subdevices: 1/1
       Subdevice #0: subdevice #0
     root@chip:/home/chip/Media# aplay -lL
+    ...
     **** List of CAPTURE Hardware Devices ****
     card 0: sunxicodec [sunxi-codec], device 0: CDC PCM Codec-0 []
       Subdevices: 1/1
