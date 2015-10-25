@@ -3,7 +3,6 @@ Image Custom
 
 ## Vagrant Up
 
-    
     $ cd CHIP-SDK
     $ vagrant up
     $ vagrant ssh
