@@ -52,3 +52,5 @@ sunxi-codec as hardware
     chip@chip:~$ mplayer test.ogg
     chip@chip:~$ wget -O test.mp3 http://www.freesound.org/data/previews/315/315618_2050105-lq.mp3
     chip@chip:~$ mplayer test.mp3
+    
+- [Next Thing Co. Sound Output on Debian ](https://nextthingco.zendesk.com/hc/en-us/articles/212946707-Sound-Output-on-Debian)
