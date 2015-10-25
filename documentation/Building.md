@@ -1,7 +1,7 @@
 Building
 ==
 
-## Buildroot
+## Buildroot & Debian
 
     
     $ cd CHIP-SDK
