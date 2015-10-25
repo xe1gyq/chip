@@ -13,7 +13,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     # ln -s $PWD/fel /usr/local/bin/fel
     or
     # cp fel /usr/local/bin/
-    # cd .. 
+    # cd ..
     # git clone http://github.com/NextThingCo/CHIP-tools 
     # cd CHIP-tools
     # ./chip-update-firmware.sh
