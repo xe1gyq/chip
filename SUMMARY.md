@@ -9,5 +9,5 @@
 * [WiFi](documentation/WiFi.md)
 * [Kernel](documentation/Kernel.md)
 * [SandBox](documentation/Sandbox.md)
-* Debian
+* [Debian](documentation/Debian.md)
 
