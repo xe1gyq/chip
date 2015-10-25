@@ -1,12 +1,15 @@
 Building
 ==
 
-## Buildroot & Debian
+## Vagrant Up
 
     
     $ cd CHIP-SDK
     $ vagrant up
     $ vagrant ssh
+
+## Buildroot & Debian
+
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-buildroot
     vagrant@vagrant-ubuntu-trusty-32:~$ make chip_defconfig
     vagrant@vagrant-ubuntu-trusty-32:~$ make nconfig
