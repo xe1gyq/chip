@@ -1,9 +1,9 @@
-Flash
+OS Flash
 ==
 
 https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 
-## Flash Linux Host
+## Linux Host
 
 ### Dependencies
 
