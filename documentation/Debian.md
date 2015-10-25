@@ -59,3 +59,4 @@ sunxi-codec as hardware
 ## Xe1Gyq Stuff
 
     root@chip:~# apt-get update
+    root@chip:~# apt-get install git
