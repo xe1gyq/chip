@@ -131,6 +131,10 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
 
     # apt-get install git
 
+### Install CHIP-SDK
+
+    $ git clone https://github.com/NextThingCo/CHIP-SDK
+
 ### Virtual Machine Startup
 
     $ cd CHIP-SDK
