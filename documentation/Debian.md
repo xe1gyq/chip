@@ -17,3 +17,7 @@ Debian
     tmpfs            50M     0   50M   0% /run/user/0
     root@chip:~# apt-get install libasound2 alsa-utils
     root@chip:~# alsamixer
+    
+Audio
+
+    sunxi-codec
