@@ -63,6 +63,6 @@ sunxi-codec as hardware
     root@chip:~# apt-get update
     root@chip:~# apt-get install git
     chip@chip:~$ git clone https://github.com/xe1gyq/Intel.IoT.Roadshow.git
-    chip@chip:~$ cd Intel.IoT.Roadshow
+    chip@chip:~$ cd Intel.IoT.Roadshow/2015
     chip@chip:~/Intel.IoT.Roadshow$ git clone https://github.com/xe1gyq/core.git
     
