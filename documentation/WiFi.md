@@ -94,3 +94,7 @@ WiFi
     ip6tnl0  ip6tnl    unmanaged     --            
     lo       loopback  unmanaged     --            
     sit0     sit       unmanaged     --            
+    root@chip:~# nmcli connection show --active
+    NAME           UUID                                  TYPE             DEVICE 
+    --             dbdf4061-9b7f-4dc2-82aa-5d288d5d15f0  802-11-wireless  wlan0  
+
