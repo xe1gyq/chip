@@ -60,8 +60,6 @@ SDK
     vagrant@vagrant-ubuntu-trusty-32:~$ chmod 666 /dev/ttyACM0
     vagrant@vagrant-ubuntu-trusty-32:~$ cu -l /dev/ttyACM0 -s 115200
 
-
-
 ## Links
 
 - http://pastebin.com/w5pDhHAe
