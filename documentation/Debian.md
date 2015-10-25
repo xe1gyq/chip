@@ -63,7 +63,12 @@ sunxi-codec as hardware
 
 ## VNC Server
 
-apt-get install vnc4server
+    root@chip:~# apt-get install vnc4server
+    chip@chip:~$ vnc4passwd 
+    Password:
+    Verify:
+    
+
 
 ## Xe1Gyq Stuff
 
