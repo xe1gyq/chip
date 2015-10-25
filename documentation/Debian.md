@@ -23,6 +23,7 @@ Audio
 
 sunxi-codec as hardware
     
+
     chip@chip:~$ wget -O test.wav https://upload.wikimedia.org/wikipedia/commons/d/db/Descending_thirds.wav
     root@chip:~# apt-get install mplayer
     chip@chip:~$ wget -O test.ogg https://upload.wikimedia.org/wikipedia/commons/e/e7/Agogo.ogg
