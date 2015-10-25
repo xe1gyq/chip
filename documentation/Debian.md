@@ -76,6 +76,7 @@ sunxi-codec as hardware
     Creating default startup script /home/chip/.vnc/xstartup
     Starting applications specified in /home/chip/.vnc/xstartup
     Log file is /home/chip/.vnc/chip:1.log
+    
 
 ## VNC Viewer @ Host
 
