@@ -3,6 +3,7 @@ Debian
 
 ## First Steps
 
+    root@chip:~# date -s "10/25/2015 18:41:30"
     root@chip:~# apt-get update
     root@chip:~# apt-get upgrade
     root@chip:~# apt-get install wget htop mplayer
@@ -60,3 +61,5 @@ sunxi-codec as hardware
 
     root@chip:~# apt-get update
     root@chip:~# apt-get install git
+    root@chip:~# date -s "10/25/2015 18:41:30"
+    chip@chip:~$ git clone https://github.com/xe1gyq/Intel.IoT.Roadshow.git
