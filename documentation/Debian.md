@@ -79,18 +79,6 @@ sunxi-codec as hardware
     Starting applications specified in /home/chip/.vnc/xstartup
     Log file is /home/chip/.vnc/chip:1.log
 
-### VNC Viewer @ Host
-    
-    root@jessie:/home/xe1gyq# apt-get install xvnc4viewer
-    Reading package lists... Done
-    Building dependency tree       
-    Reading state information... Done
-    xvnc4viewer is already the newest version.
-    0 upgraded, 0 newly installed, 0 to remove and 109 not upgraded.
-    root@jessie:/home/xe1gyq# exit
-    exit
-    xe1gyq@jessie:~$ xvnc4viewer 192.168.1.77:1
-
 ### VNC Server @ CHIP Default Desktop
 
     chip@chip:~$ vnc4server -kill :1
@@ -102,6 +90,25 @@ sunxi-codec as hardware
     exec /etc/X11/xinit/xinitrc 
     ...
     chip@chip:~$ vnc4server -geometry 800x600 -depth 24
+    chip@chip:~$ vnc4server -geometry 800x600 -depth 24
+    xauth: (stdin):1:  bad display name "chip:1" in "add" command
+    
+    New 'chip:1 (chip)' desktop is chip:1
+    
+    Starting applications specified in /home/chip/.vnc/xstartup
+    Log file is /home/chip/.vnc/chip:1.log
+
+### VNC Viewer @ Host
+    
+    root@jessie:/home/xe1gyq# apt-get install xvnc4viewer
+    Reading package lists... Done
+    Building dependency tree       
+    Reading state information... Done
+    xvnc4viewer is already the newest version.
+    0 upgraded, 0 newly installed, 0 to remove and 109 not upgraded.
+    root@jessie:/home/xe1gyq# exit
+    exit
+    xe1gyq@jessie:~$ xvnc4viewer 192.168.1.77:1
 
 
 ## Xe1Gyq Stuff
