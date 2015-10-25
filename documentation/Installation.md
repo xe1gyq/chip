@@ -20,6 +20,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     or
     # cp fel /usr/local/bin/
 
+### Build Tools
 
     # cd ..
     $ git clone http://github.com/NextThingCo/CHIP-tools
