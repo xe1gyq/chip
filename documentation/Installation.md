@@ -74,6 +74,10 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     ### ALL TESTS PASSED ###
     # 
 
+### Flash Debian
+    
+    # ./chip-update-firmware.sh -d
+    
 ## At CHIP
 
     # hwtest
