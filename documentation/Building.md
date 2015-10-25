@@ -1,4 +1,4 @@
-Building
+Custom Image
 ==
 
 ## Vagrant Up
