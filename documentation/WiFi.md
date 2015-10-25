@@ -65,7 +65,7 @@ WiFi
 
     root@chip:~# nmcli device wifi list
     *  SSID             MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
-       INFINITUMfjph    Infra  1     54 Mbit/s  62      ▂▄▆_  WPA1 WPA2 
+       INFINITUMfjph    Infra  1     54 Mbit/s  62      ▂___  WPA1 WPA2 
        INFINITUM8240C7  Infra  11    54 Mbit/s  55      ▂▄__  WPA1 WPA2 
        17057Abril       Infra  6     54 Mbit/s  50      ▂▄__  WPA1 WPA2 
        INFINITUMndjj    Infra  2     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
@@ -75,7 +75,7 @@ WiFi
        INFINITUME75B40  Infra  6     54 Mbit/s  29      ▂___  WPA1 WPA2 
     
     *  SSID             MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
-       INFINITUMfjph    Infra  1     54 Mbit/s  62      ▂▄▆_  WPA1 WPA2 
+       INFINITUMfjph    Infra  1     54 Mbit/s  62      ▂___  WPA1 WPA2 
        INFINITUM8240C7  Infra  11    54 Mbit/s  55      ▂▄__  WPA1 WPA2 
        17057Abril       Infra  6     54 Mbit/s  50      ▂▄__  WPA1 WPA2 
        INFINITUMndjj    Infra  2     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
