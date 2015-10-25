@@ -41,6 +41,9 @@ sunxi-codec as hardware
       Subdevices: 1/1
       Subdevice #0: subdevice #0
 
+    root@chip:~# cat /proc/asound/cards
+     0 [sunxicodec     ]: sunxi-codec - sunxi-codec
+                          sunxi-codec
     root@chip:~# arecord -f cd -D plughw:0,0 -d 20 test.wav
     Recording WAVE 'test.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
     ^CAborted by signal Interrupt...
