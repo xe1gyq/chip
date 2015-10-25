@@ -12,9 +12,13 @@ Image Custom
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-buildroot
     vagrant@vagrant-ubuntu-trusty-32:~$ make chip_defconfig
+    ...
+    # configuration written to /home/vagrant/CHIP-buildroot/.config
+    ...
     vagrant@vagrant-ubuntu-trusty-32:~$ make nconfig
     vagrant@vagrant-ubuntu-trusty-32:~$ make
     vagrant@vagrant-ubuntu-trusty-32:~$ ls /home/vagrant/CHIP-buildroot/.config
+    /home/vagrant/CHIP-buildroot/.config
 
 
 [Flash C.H.I.P. from C.H.I.P. SDK! (Virtual Machine) ](https://nextthingco.zendesk.com/hc/en-us/articles/210864097-Flash-C-H-I-P-from-C-H-I-P-SDK-Virtual-Machine-)
