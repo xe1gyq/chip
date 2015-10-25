@@ -38,6 +38,9 @@ SDK
     $ vagrant ssh
     vagrant@vagrant-ubuntu-trusty-32:~$ 
     vagrant@vagrant-ubuntu-trusty-32:~$ ./CHIP-SDK/setup_ubuntu1404.sh
+
+### 
+
     vagrant@vagrant-ubuntu-trusty-32:~$ vagrant plugin install vagrant-vbguest
     vagrant@vagrant-ubuntu-trusty-32:~$ exit
     $ vagrant halt
