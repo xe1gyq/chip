@@ -43,7 +43,7 @@
     [36792.716182] usb 2-4.1: new full-speed USB device number 26 using ehci-pci
     [36793.124035] usb 2-4.1: device not accepting address 26, error -32
     [36793.124181] usb 2-4-port1: unable to enumerate USB device
-    $ cu -l /dev/ttyACMX -s 115200
+    $ cu -l /dev/ttyACMXX -s 115200
 
 ## At CHIP
 
