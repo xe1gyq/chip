@@ -61,7 +61,9 @@ sunxi-codec as hardware
     
 - [Next Thing Co. Sound Output on Debian ](https://nextthingco.zendesk.com/hc/en-us/articles/212946707-Sound-Output-on-Debian)
 
-## VNC Server @ CHIP
+## VNC
+
+### VNC Server @ CHIP
 
     root@chip:~# apt-get install vnc4server
     chip@chip:~$ vnc4passwd 
@@ -76,7 +78,19 @@ sunxi-codec as hardware
     Creating default startup script /home/chip/.vnc/xstartup
     Starting applications specified in /home/chip/.vnc/xstartup
     Log file is /home/chip/.vnc/chip:1.log
+
+### VNC Client @ Host
     
+    root@jessie:/home/xe1gyq# apt-get install xvnc4viewer
+    Reading package lists... Done
+    Building dependency tree       
+    Reading state information... Done
+    xvnc4viewer is already the newest version.
+    0 upgraded, 0 newly installed, 0 to remove and 109 not upgraded.
+    root@jessie:/home/xe1gyq# exit
+    exit
+    xe1gyq@jessie:~$ xvnc4viewer 10.1.1.12:1
+
 
 ## VNC Viewer @ Host
 
