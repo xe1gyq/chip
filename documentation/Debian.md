@@ -59,7 +59,7 @@ sunxi-codec as hardware
 
 ## Xe1Gyq Stuff
 
+    root@chip:~# date -s "10/25/2015 18:41:30"
     root@chip:~# apt-get update
     root@chip:~# apt-get install git
-    root@chip:~# date -s "10/25/2015 18:41:30"
     chip@chip:~$ git clone https://github.com/xe1gyq/Intel.IoT.Roadshow.git
