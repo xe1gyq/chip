@@ -3,6 +3,7 @@ Debian
 
     root@chip:~# apt-get update
     root@chip:~# apt-get upgrade
+    root@chip:~# apt-get install wget
     root@chip:~# dpkg-reconfigure tzdata # TimeZone
     root@chip:~# apt-get install xfce4
     root@chip:~# apt-get install -f
@@ -21,3 +22,4 @@ Debian
 Audio
 
     sunxi-codec
+    wget -O test.wav https://upload.wikimedia.org/wikipedia/commons/d/db/Descending_thirds.wav
