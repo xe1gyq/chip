@@ -97,4 +97,12 @@ WiFi
     root@chip:~# nmcli connection show --active
     NAME           UUID                                  TYPE             DEVICE 
     --             dbdf4061-9b7f-4dc2-82aa-5d288d5d15f0  802-11-wireless  wlan0  
+    root@chip:~# ping 8.8.8.8
+    PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+    64 bytes from 8.8.8.8: icmp_seq=2 ttl=57 time=23.6 ms
+    ^C
+    --- 8.8.8.8 ping statistics ---
+    2 packets transmitted, 1 received, 50% packet loss, time 1003ms
+    rtt min/avg/max/mdev = 23.637/23.637/23.637/0.000 ms
+
 
