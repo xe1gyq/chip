@@ -63,7 +63,7 @@ sunxi-codec as hardware
 
 ## VNC
 
-### VNC Server @ CHIP
+### VNC Server @ CHIP X Server
 
     root@chip:~# apt-get install vnc4server
     chip@chip:~$ vnc4passwd 
@@ -90,6 +90,19 @@ sunxi-codec as hardware
     root@jessie:/home/xe1gyq# exit
     exit
     xe1gyq@jessie:~$ xvnc4viewer 192.168.1.77:1
+
+### VNC Server @ CHIP X Server
+
+    chip@chip:~$ vnc4server -kill :1
+    Killing Xvnc4 process ID 18807
+    chip@chip:~$ nano ~/.vnc/xstartup                         
+    #!/bin/sh
+    # Uncomment the following two lines for normal desktop:
+    unset SESSION_MANAGER 
+    exec /etc/X11/xinit/xinitrc 
+    ...
+    chip@chip:~$ vnc4server -geometry 800x600 -depth 24
+
 
 ## Xe1Gyq Stuff
 
