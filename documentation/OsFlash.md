@@ -98,7 +98,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     == execute the main u-boot binary ==
     == write ubi ==
     flashing............................OK
-
+    ...
     $ cu -l /dev/ttyACM0 -s 115200
     Connected.
     
