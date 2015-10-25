@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Installation](documentation/Installation.md)
+* [Flash](documentation/Flash.md)
 * [SDK](documentation/Sdk.md)
 * [Building](documentation/Building.md)
 * [StartUp](documentation/Startup.md)
