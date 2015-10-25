@@ -90,7 +90,6 @@ sunxi-codec as hardware
     exec /etc/X11/xinit/xinitrc 
     ...
     chip@chip:~$ vnc4server -geometry 800x600 -depth 24
-    chip@chip:~$ vnc4server -geometry 800x600 -depth 24
     xauth: (stdin):1:  bad display name "chip:1" in "add" command
     
     New 'chip:1 (chip)' desktop is chip:1
