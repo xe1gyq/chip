@@ -104,5 +104,7 @@ WiFi
     --- 8.8.8.8 ping statistics ---
     2 packets transmitted, 1 received, 50% packet loss, time 1003ms
     rtt min/avg/max/mdev = 23.637/23.637/23.637/0.000 ms
+    
+- https://nextthingco.zendesk.com/hc/en-us/articles/212946627-Installing-Zero-Configuration-Networking
 
 
