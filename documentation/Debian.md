@@ -89,7 +89,7 @@ sunxi-codec as hardware
     0 upgraded, 0 newly installed, 0 to remove and 109 not upgraded.
     root@jessie:/home/xe1gyq# exit
     exit
-    xe1gyq@jessie:~$ xvnc4viewer 10.1.1.12:1
+    xe1gyq@jessie:~$ xvnc4viewer 192.168.1.77:1
 
 
 
