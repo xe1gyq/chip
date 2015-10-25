@@ -4,7 +4,7 @@
 * [OS Flash](documentation/OsFlash.md)
 * [SDK](documentation/Sdk.md)
 * [SDK Flash](documentation/SdkFlash.md)
-* [Building](documentation/Building.md)
+* [ImageCustom](documentation/ImageCustom.md)
 * [StartUp](documentation/Startup.md)
 * [WiFi](documentation/WiFi.md)
 * [Kernel](documentation/Kernel.md)
