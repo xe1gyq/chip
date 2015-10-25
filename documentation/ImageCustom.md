@@ -17,6 +17,8 @@ Image Custom
     ...
     vagrant@vagrant-ubuntu-trusty-32:~$ make nconfig
     vagrant@vagrant-ubuntu-trusty-32:~$ make
+    mkdir -p /home/vagrant/CHIP-buildroot/output/target
+    ...
     vagrant@vagrant-ubuntu-trusty-32:~$ ls /home/vagrant/CHIP-buildroot/.config
 
 ### BuildRoot Flash, Old Method
