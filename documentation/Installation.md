@@ -120,7 +120,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     $ vagrant up
     $ vagrant ssh
 
-## Intermmeidate Steps
+## Intermmediate Steps
 
     In Buildroot
     vagrant@vagrant-ubuntu-trusty-32:~$ usermod -a -G dialout vagrant
