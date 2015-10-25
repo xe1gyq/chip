@@ -38,6 +38,12 @@ sunxi-codec as hardware
       Subdevices: 1/1
       Subdevice #0: subdevice #0
 
+    root@chip:~# arecord -f cd -D plughw:0,0 -d 20 test.wav
+    Recording WAVE 'test.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+    ^CAborted by signal Interrupt...
+    root@chip:~# aplay -D hw:0,0 test.wav
+    Playing WAVE 'test.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+
     chip@chip:~$ wget -O test.wav https://upload.wikimedia.org/wikipedia/commons/d/db/Descending_thirds.wav
     root@chip:~# apt-get install mplayer
     chip@chip:~$ wget -O test.ogg https://upload.wikimedia.org/wikipedia/commons/e/e7/Agogo.ogg
