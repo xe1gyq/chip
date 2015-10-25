@@ -37,6 +37,9 @@ SDK
     $ vagrant up
     $ vagrant ssh
     vagrant@vagrant-ubuntu-trusty-32:~$ 
+
+### Ubuntu Setup
+
     vagrant@vagrant-ubuntu-trusty-32:~$ ./CHIP-SDK/setup_ubuntu1404.sh
 
 ### 
