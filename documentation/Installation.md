@@ -114,6 +114,12 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     vagrant@vagrant-ubuntu-trusty-32:~$ 
     vagrant@vagrant-ubuntu-trusty-32:~$ ./CHIP-SDK/setup_ubuntu1404.sh
 
+## Vagrant Up
+
+    $ cd CHIP-SDK
+    $ vagrant up
+    $ vagrant ssh
+
 ## Issues
 
     In Buildroot
