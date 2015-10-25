@@ -25,6 +25,14 @@ Debian
 
 sunxi-codec as hardware
     
+    root@chip:/home/chip/Media# aplay -lL
+    ...
+    **** List of PLAYBACK Hardware Devices ****
+    card 0: sunxicodec [sunxi-codec], device 0: CDC PCM Codec-0 []
+      Subdevices: 1/1
+      Subdevice #0: subdevice #0
+
+
 
     chip@chip:~$ wget -O test.wav https://upload.wikimedia.org/wikipedia/commons/d/db/Descending_thirds.wav
     root@chip:~# apt-get install mplayer
