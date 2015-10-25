@@ -81,7 +81,14 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     ROOTFS_URL=http://opensource.nextthing.co.s3.amazonaws.com/chip/debian/stable/38
     BUILD=38
     ...
-    
+    BUILDROOT_OUTPUT_DIR = /home/xe1gyq/Projects/chip/CHIP-tools/.firmware
+    == preparing images ==
+    /home/xe1gyq/Projects/chip/CHIP-tools /home/xe1gyq/Projects/chip/CHIP-tools
+    gcc    -c -o spl-image-builder.o spl-image-builder.c
+    gcc -o spl-image-builder spl-image-builder.o
+    /home/xe1gyq/Projects/chip/CHIP-tools
+    ...
+
     $ cu -l /dev/ttyACM0 -s 115200
     Connected.
     
