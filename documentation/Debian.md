@@ -44,6 +44,8 @@ sunxi-codec as hardware
     root@chip:~# aplay -D hw:0,0 test.wav
     Playing WAVE 'test.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
 
+### Testing
+
     chip@chip:~$ wget -O test.wav https://upload.wikimedia.org/wikipedia/commons/d/db/Descending_thirds.wav
     root@chip:~# apt-get install mplayer
     chip@chip:~$ wget -O test.ogg https://upload.wikimedia.org/wikipedia/commons/e/e7/Agogo.ogg
