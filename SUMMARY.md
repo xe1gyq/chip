@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Installation](documentation/Installation.md)
-* [SDK](documentation/sdk.md)
+* [SDK](documentation/Sdk.md)
 * [Building](documentation/Building.md)
 * [StartUp](documentation/Startup.md)
 * [WiFi](documentation/WiFi.md)
