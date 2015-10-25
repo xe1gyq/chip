@@ -8,7 +8,7 @@ Image Custom
     $ vagrant up
     $ vagrant ssh
 
-## Buildroot
+## Buildroot & Debian
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-buildroot
     vagrant@vagrant-ubuntu-trusty-32:~$ make chip_defconfig
@@ -18,11 +18,6 @@ Image Custom
     vagrant@vagrant-ubuntu-trusty-32:~$ make nconfig
     vagrant@vagrant-ubuntu-trusty-32:~$ make
     vagrant@vagrant-ubuntu-trusty-32:~$ ls /home/vagrant/CHIP-buildroot/.config
-    
-
-
-[Flash C.H.I.P. from C.H.I.P. SDK! (Virtual Machine) ](https://nextthingco.zendesk.com/hc/en-us/articles/210864097-Flash-C-H-I-P-from-C-H-I-P-SDK-Virtual-Machine-)
-[Free Electrons Buildroot Training ](http://free-electrons.com/doc/training/buildroot/buildroot-slides.pdf)
 
 ### BuildRoot Flash, Old Method
 
@@ -48,4 +43,6 @@ Image Custom
 
 ## Chroot Debian Tree
 
-http://www.raspibo.org/wiki/index.php/Chip9%24_How_to_install_a_chroot_Debian_tree
+- [Flash C.H.I.P. from C.H.I.P. SDK! (Virtual Machine) ](https://nextthingco.zendesk.com/hc/en-us/articles/210864097-Flash-C-H-I-P-from-C-H-I-P-SDK-Virtual-Machine-)
+- [Free Electrons Buildroot Training ](http://free-electrons.com/doc/training/buildroot/buildroot-slides.pdf)
+- http://www.raspibo.org/wiki/index.php/Chip9%24_How_to_install_a_chroot_Debian_tree
