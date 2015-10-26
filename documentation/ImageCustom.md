@@ -33,6 +33,7 @@ Image Custom
     vagrant@vagrant-ubuntu-trusty-32:~$ sudo rm /usr/local/bin/fel
     vagrant@vagrant-ubuntu-trusty-32:~$ sudo ln -s $PWD/fel /usr/local/bin/fel
 
+
 ## Buildroot Image, Flashing
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
