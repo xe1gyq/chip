@@ -13,7 +13,7 @@ SDK Flashing
     vagrant@vagrant-ubuntu-trusty-32:~$ git clone https://github.com/NextThingCo/sunxi-tools.git
     vagrant@vagrant-ubuntu-trusty-32:~$ cd sunxi-tools
     vagrant@vagrant-ubuntu-trusty-32:~$ make
-    vagrant@vagrant-ubuntu-trusty-32:~$ rm /usr/local/bin/fel
+    vagrant@vagrant-ubuntu-trusty-32:~$ sudo rm /usr/local/bin/fel
     vagrant@vagrant-ubuntu-trusty-32:~$ sudo ln -s $PWD/fel /usr/local/bin/fel
     
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
