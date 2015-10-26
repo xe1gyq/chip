@@ -16,7 +16,7 @@ SDK Flashing
     vagrant@vagrant-ubuntu-trusty-32:~$ sudo rm /usr/local/bin/fel
     vagrant@vagrant-ubuntu-trusty-32:~$ sudo ln -s $PWD/fel /usr/local/bin/fel
 
-## Tress Update
+## Trees Update
     
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
     vagrant@vagrant-ubuntu-trusty-32:~$ git pull https://github.com/NextThingCo/CHIP-tools.git
