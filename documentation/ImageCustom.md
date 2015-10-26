@@ -23,6 +23,17 @@ Image Custom
     /usr/bin/install -m 0644 support/misc/target-dir-warning.txt /home/vagrant/CHIP-buildroot/output/target/THIS_IS_NOT_YOUR_ROOT_FILESYSTEM
     vagrant@vagrant-ubuntu-trusty-32:~$ ls /home/vagrant/CHIP-buildroot/.config
 
+# Fel
+
+    vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/
+    vagrant@vagrant-ubuntu-trusty-32:~$ sudo rm -r ~/sunxi-tools
+    vagrant@vagrant-ubuntu-trusty-32:~$ git clone https://github.com/NextThingCo/sunxi-tools.git
+    vagrant@vagrant-ubuntu-trusty-32:~$ cd sunxi-tools
+    vagrant@vagrant-ubuntu-trusty-32:~$ make
+    vagrant@vagrant-ubuntu-trusty-32:~$ sudo rm /usr/local/bin/fel
+    vagrant@vagrant-ubuntu-trusty-32:~$ sudo ln -s $PWD/fel /usr/local/bin/fel
+
+
 ## Buildroot Image, Flashing
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
