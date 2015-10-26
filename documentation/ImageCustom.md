@@ -18,6 +18,7 @@ Image Custom
     vagrant@vagrant-ubuntu-trusty-32:~$ make
     mkdir -p /home/vagrant/CHIP-buildroot/output/target
     ...
+    ...
     ubinize: volume size was not specified in section "ubifs", assume minimum to fit image "/home/vagrant/CHIP-buildroot/output/images/rootfs.ubifs"49545216 bytes (47.2 MiB)
     /usr/bin/install -m 0644 support/misc/target-dir-warning.txt /home/vagrant/CHIP-buildroot/output/target/THIS_IS_NOT_YOUR_ROOT_FILESYSTEM
     vagrant@vagrant-ubuntu-trusty-32:~$ ls /home/vagrant/CHIP-buildroot/.config
