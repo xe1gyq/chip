@@ -38,12 +38,11 @@ Image Custom
 
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
     vagrant@vagrant-ubuntu-trusty-32:~$ BUILDROOT_OUTPUT_DIR=../CHIP-buildroot/output ./chip-fel-flash.sh
-
-vagrant@vagrant-ubuntu-trusty-32:~/CHIP-tools$ sudo BUILDROOT_OUTPUT_DIR=../CHIP-buildroot/output ./chip-fel-flash.sh
-BUILDROOT_OUTPUT_DIR = ../CHIP-buildroot/output
-== preparing images ==
-filesize= 3573504
-PADDED_SPL_SIZE=0x000000c6
+    BUILDROOT_OUTPUT_DIR = ../CHIP-buildroot/output
+    == preparing images ==
+    filesize= 3573504
+    PADDED_SPL_SIZE=0x000000c6
+    ...
 
 
 ### BuildRoot Flash, Old Method
