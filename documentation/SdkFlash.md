@@ -7,7 +7,9 @@ SDK Flashing
     # vagrant up
     # vagrant ssh
     vagrant@vagrant-ubuntu-trusty-32:~$
-    
+
+# Fel
+
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/
     vagrant@vagrant-ubuntu-trusty-32:~$ sudo rm -r ~/sunxi-tools
     vagrant@vagrant-ubuntu-trusty-32:~$ git clone https://github.com/NextThingCo/sunxi-tools.git
