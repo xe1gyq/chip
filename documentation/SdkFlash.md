@@ -11,7 +11,6 @@ SDK Flashing
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/
     vagrant@vagrant-ubuntu-trusty-32:~$ sudo rm -r ~/sunxi-tools
     vagrant@vagrant-ubuntu-trusty-32:~$ git clone https://github.com/NextThingCo/sunxi-tools.git
-    
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-tools
     vagrant@vagrant-ubuntu-trusty-32:~$ git pull https://github.com/NextThingCo/CHIP-tools.git
     vagrant@vagrant-ubuntu-trusty-32:~$ cd ~/CHIP-SDK
