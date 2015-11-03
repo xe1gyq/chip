@@ -1,5 +1,7 @@
 # SandBox
 
+http://www.instructables.com/id/Turn-your-Raspberry-Pi-into-a-Portable-Bluetooth-A/
+
     # top
     Mem: 34452K used, 468024K free, 88K shrd, 0K buff, 8148K cached
     CPU:   0% usr   0% sys   0% nic  99% idle   0% io   0% irq   0% sirq
