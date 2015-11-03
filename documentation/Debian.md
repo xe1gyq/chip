@@ -3,7 +3,7 @@ Debian
 
 ## First Steps
 
-    root@chip:~#5$ uname -a
+    root@chip:~# uname -a
     Linux chip 4.2.0-rc1 #1 SMP Wed Oct 21 20:43:17 UTC 2015 armv7l GNU/Linux
     root@chip:~# date -s "10/25/2015 18:41:30"
     root@chip:~# apt-get update
