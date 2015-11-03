@@ -1,6 +1,7 @@
 # SandBox
 
 http://www.instructables.com/id/Turn-your-Raspberry-Pi-into-a-Portable-Bluetooth-A/
+https://wiki.archlinux.org/index.php/Bluetooth#Configuration_via_the_CLI
 
     # top
     Mem: 34452K used, 468024K free, 88K shrd, 0K buff, 8148K cached
