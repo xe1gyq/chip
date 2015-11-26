@@ -6,7 +6,6 @@
 * [SDK](documentation/Sdk.md)
 * [SDK Flash](documentation/SdkFlash.md)
 * [ImageCustom](documentation/ImageCustom.md)
-* [StartUp](documentation/Startup.md)
 * [Kernel](documentation/Kernel.md)
 * [Buildroot](documentation/buildroot.md)
 * [Debian](documentation/Debian.md)
