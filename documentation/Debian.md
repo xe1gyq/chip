@@ -146,4 +146,4 @@ sunxi-codec as hardware
 
 ## Software Define Radio
 
-
+    root@chip:~# 
