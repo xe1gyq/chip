@@ -87,7 +87,6 @@ WiFi
     root@chip:~# nmcli device wifi connect INFINITUMf ifname wlan0
     Connection with UUID '...5d288d5d...' created and activated on device 'wlan0'
     root@chip:~# nmcli device status
-    root@chip:~# nmcli device status
     DEVICE   TYPE      STATE         CONNECTION    
     wlan0    wifi      connected     -- 
     wlan1    wifi      disconnected  --            
