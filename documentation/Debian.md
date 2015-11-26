@@ -146,4 +146,6 @@ sunxi-codec as hardware
 
 ## Software Define Radio
 
-    root@chip:~# 
+    root@chip:~# apt-get update
+    root@chip:~# apt-get install gnuradio gnuradio-dev
+    root@chip:~# apt-get install rtl-sdr gr-osmosdr
