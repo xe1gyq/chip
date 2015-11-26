@@ -1,13 +1,6 @@
 Kernel
 ==
 
-
-RTL8723BS_BT Version
-https://github.com/lwfinger/rtl8723bs_bt.git
-
-RTL8723BS MP Driver Version (Custom Git repository)  --->                                                │
-https://github.com/NextThingCo/RTL8723BS.git) URL of custom repository 
-
     root@chip:~# dmesg | grep sunxi
     [    1.660000] sunxi-wdt 1c20c90.watchdog: Watchdog enabled (timeout=16 sec, nowayout=0)
     [    1.680000] sunxi-mmc 1c0f000.mmc: No vqmmc regulator found
@@ -375,3 +368,10 @@ https://github.com/NextThingCo/RTL8723BS.git) URL of custom repository
     [   35.160000] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
     [   35.160000] Bluetooth: BNEP socket layer initialized
     [   81.280000] cfg80211: Verifying active interfaces after reg change
+
+## Other Informatyion
+
+RTL8723BS_BT Version
+https://github.com/lwfinger/rtl8723bs_bt.git
+RTL8723BS MP Driver Version (Custom Git repository)  --->                                                
+https://github.com/NextThingCo/RTL8723BS.git) URL of custom repository 
