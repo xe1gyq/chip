@@ -369,7 +369,7 @@ Kernel
     [   35.160000] Bluetooth: BNEP socket layer initialized
     [   81.280000] cfg80211: Verifying active interfaces after reg change
 
-## Other Informatyion
+## Other Information
 
 RTL8723BS_BT Version
 https://github.com/lwfinger/rtl8723bs_bt.git
