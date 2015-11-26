@@ -266,7 +266,7 @@ sunxi-codec as hardware
     exit
     xe1gyq@jessie:~$ xvnc4viewer 192.168.1.77:1
 
-## Xe1Gyq Stuff
+## My Stuff
 
     root@chip:~# date -s "10/25/2015 18:41:30"
     root@chip:~# apt-get update
