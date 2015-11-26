@@ -21,8 +21,13 @@ Debian
     tmpfs           5.0M     0  5.0M   0% /run/lock
     tmpfs           246M     0  246M   0% /sys/fs/cgroup
     tmpfs            50M     0   50M   0% /run/user/0
+    # Sound
     root@chip:~# apt-get install libasound2 alsa-utils
     root@chip:~# alsamixer
+    root@chip:~# apt-get install portaudio19-dev &&
+    root@chip:~# apt-get install swig &&
+    root@chip:~# apt-get install python-setup-tools &&
+    root@chip:~# apt-get install python-dev
     
 ## Audio
 
