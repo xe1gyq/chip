@@ -26,15 +26,6 @@ Debian
     root@chip:~# dpkg-reconfigure tzdata # TimeZone
     root@chip:~# apt-get install wget htop git
     root@chip:~# apt-get install -f
-    root@chip:~# df -h
-    Filesystem      Size  Used Avail Use% Mounted on
-    ubi0:rootfs     3.6G  563M  3.1G  16% /
-    devtmpfs        245M     0  245M   0% /dev
-    tmpfs           246M     0  246M   0% /dev/shm
-    tmpfs           246M  6.6M  239M   3% /run
-    tmpfs           5.0M     0  5.0M   0% /run/lock
-    tmpfs           246M     0  246M   0% /sys/fs/cgroup
-    tmpfs            50M     0   50M   0% /run/user/0
     root@chip:~# dmesg
     [35340.574607] usb 2-4.1: USB disconnect, device number 15
     [35340.852245] usb 2-4.1: new full-speed USB device number 16 using ehci-pci
@@ -94,6 +85,15 @@ Debian
     # Wifi enumeration test...OK
     ### ALL TESTS PASSED ###
 
+    root@chip:~# df -h
+    Filesystem      Size  Used Avail Use% Mounted on
+    ubi0:rootfs     3.6G  563M  3.1G  16% /
+    devtmpfs        245M     0  245M   0% /dev
+    tmpfs           246M     0  246M   0% /dev/shm
+    tmpfs           246M  6.6M  239M   3% /run
+    tmpfs           5.0M     0  5.0M   0% /run/lock
+    tmpfs           246M     0  246M   0% /sys/fs/cgroup
+    tmpfs            50M     0   50M   0% /run/user/0
     root@chip:~# cat /proc/cpuinfo
     root@chip:~# uname -a
     root@chip:~# cat /proc/meminfo | head
