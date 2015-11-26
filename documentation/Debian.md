@@ -3,6 +3,9 @@ Debian
 
 ## First Steps
 
+    Debian GNU/Linux 8 chip ttyGS0
+    chip login: root
+
     root@chip:~# uname -a
     Linux chip 4.2.0-rc1 #1 SMP Wed Oct 21 20:43:17 UTC 2015 armv7l GNU/Linux
     root@chip:~# date -s "10/25/2015 18:41:30"
