@@ -35,7 +35,11 @@ Debian
     tmpfs           5.0M     0  5.0M   0% /run/lock
     tmpfs           246M     0  246M   0% /sys/fs/cgroup
     tmpfs            50M     0   50M   0% /run/user/0
-    
+
+## WiFi
+
+See [WiFi](https://xe1gyq.gitbooks.io/thechipworkshop/content/documentation/WiFi.html)
+
 ## Audio
 
 sunxi-codec as hardware
