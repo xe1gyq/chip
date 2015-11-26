@@ -58,7 +58,6 @@ Debian
     model name	: ARMv7 Processor rev 2 (v7l)
     BogoMIPS	: 1001.88
     Hardware	: Allwinner sun4i/sun5i Families
-    root@chip:~# uname -a
     root@chip:~# cat /proc/meminfo | head
     root@chip:~# htop
     Mem: 34452K used, 468024K free, 88K shrd, 0K buff, 8148K cached
