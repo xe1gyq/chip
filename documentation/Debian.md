@@ -44,7 +44,7 @@ See [WiFi](https://xe1gyq.gitbooks.io/thechipworkshop/content/documentation/WiFi
 
 sunxi-codec as hardware
 
-    root@chip:~# apt-get install libasound2 alsa-utils mplayer
+    root@chip:~# apt-get install libasound2 alsa-utils mplayer2
     root@chip:~# alsamixer
     root@chip:~# apt-get install portaudio19-dev &&
     root@chip:~# apt-get install swig &&
