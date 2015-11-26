@@ -60,5 +60,50 @@ WiFi
 
 [Connecting C.H.I.P. to a Wireless Network ](https://nextthingco.zendesk.com/hc/en-us/articles/209758368-Connecting-C-H-I-P-to-a-Wireless-Network)
 
+## Debian
+
+
+    root@chip:~# nmcli device wifi list
+    *  SSID             MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+       INFINITUMfjph    Infra  1     54 Mbit/s  62      ▂___  WPA1 WPA2 
+       INFINITUM8240C7  Infra  11    54 Mbit/s  55      ▂▄__  WPA1 WPA2 
+       17057Abril       Infra  6     54 Mbit/s  50      ▂▄__  WPA1 WPA2 
+       INFINITUMndjj    Infra  2     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+       INFINITUMf89t    Infra  9     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+       INFINITUM6d6f    Infra  4     54 Mbit/s  30      ▂___  WPA1 WPA2 
+       --               Infra  1     54 Mbit/s  72      ▂▄▆_  --        
+       INFINITUME75B40  Infra  6     54 Mbit/s  29      ▂___  WPA1 WPA2 
+    
+    *  SSID             MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+       INFINITUMfjph    Infra  1     54 Mbit/s  62      ▂___  WPA1 WPA2 
+       INFINITUM8240C7  Infra  11    54 Mbit/s  55      ▂▄__  WPA1 WPA2 
+       17057Abril       Infra  6     54 Mbit/s  50      ▂▄__  WPA1 WPA2 
+       INFINITUMndjj    Infra  2     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+       INFINITUMf89t    Infra  9     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+       INFINITUM6d6f    Infra  4     54 Mbit/s  17      ▂___  WPA1 WPA2 
+       --               Infra  1     54 Mbit/s  72      ▂▄▆_  --        
+       INFINITUME75B40  Infra  6     54 Mbit/s  29      ▂___  WPA1 WPA2 
+    root@chip:~# nmcli device wifi connect INFINITUMf password 1c28 ifname wlan0
+    root@chip:~# nmcli device wifi connect INFINITUMf ifname wlan0
+    Connection with UUID '...5d288d5d...' created and activated on device 'wlan0'
+    root@chip:~# nmcli device status
+    DEVICE   TYPE      STATE         CONNECTION    
+    wlan0    wifi      connected     -- 
+    wlan1    wifi      disconnected  --            
+    ip6tnl0  ip6tnl    unmanaged     --            
+    lo       loopback  unmanaged     --            
+    sit0     sit       unmanaged     --            
+    root@chip:~# nmcli connection show --active
+    NAME           UUID                                  TYPE             DEVICE 
+    --             dbdf4061-9b7f-4dc2-82aa-5d288d5d15f0  802-11-wireless  wlan0  
+    root@chip:~# ping 8.8.8.8
+    PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+    64 bytes from 8.8.8.8: icmp_seq=2 ttl=57 time=23.6 ms
+    ^C
+    --- 8.8.8.8 ping statistics ---
+    2 packets transmitted, 1 received, 50% packet loss, time 1003ms
+    rtt min/avg/max/mdev = 23.637/23.637/23.637/0.000 ms
+    
+- [Installing Zero Configuration Networking](https://nextthingco.zendesk.com/hc/en-us/articles/212946627-Installing-Zero-Configuration-Networking)
 
 
