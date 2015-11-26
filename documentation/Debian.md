@@ -6,7 +6,18 @@ Debian
     Debian GNU/Linux 8 chip ttyGS0
     chip login: chip
     Password: chip
-
+    Last login: Thu Jan  1 00:01:27 UTC 1970 on ttyGS0
+    Linux chip 4.2.0-rc1 #1 SMP Tue Nov 3 07:09:51 UTC 2015 armv7l
+    
+    The programs included with the Debian GNU/Linux system are free software;
+    the exact distribution terms for each program are described in the
+    individual files in /usr/share/doc/*/copyright.
+    
+    Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+    permitted by applicable law.
+    chip@chip:~$ su
+    Password: chip
+    root@chip:/home/chip# cd
     root@chip:~# uname -a
     Linux chip 4.2.0-rc1 #1 SMP Wed Oct 21 20:43:17 UTC 2015 armv7l GNU/Linux
     root@chip:~# date -s "10/25/2015 18:41:30"
