@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [OS Flash](documentation/OsFlash.md)
 * [Hardware](documentation/hardware.md)
+* [OS Flash](documentation/OsFlash.md)
 * [SDK](documentation/Sdk.md)
 * [SDK Flash](documentation/SdkFlash.md)
 * [ImageCustom](documentation/ImageCustom.md)
