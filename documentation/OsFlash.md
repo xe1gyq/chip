@@ -27,8 +27,7 @@ https://nextthingco.zendesk.com/hc/en-us/categories/200881468-C-H-I-P-
     $ git clone http://github.com/NextThingCo/CHIP-tools
     $ cd CHIP-tools
     $ git pull
-    $ cd CHIP-tools
-    
+
 ### Flash Buildroot
     
     # ./chip-update-firmware.sh
