@@ -54,6 +54,10 @@ Debian
     tmpfs           246M     0  246M   0% /sys/fs/cgroup
     tmpfs            50M     0   50M   0% /run/user/0
     root@chip:~# cat /proc/cpuinfo
+    processor	: 0
+    model name	: ARMv7 Processor rev 2 (v7l)
+    BogoMIPS	: 1001.88
+    Hardware	: Allwinner sun4i/sun5i Families
     root@chip:~# uname -a
     root@chip:~# cat /proc/meminfo | head
     root@chip:~# htop
