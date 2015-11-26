@@ -46,9 +46,9 @@ sunxi-codec as hardware
 
     root@chip:~# apt-get install libasound2 alsa-utils mplayer2
     root@chip:~# alsamixer
-    root@chip:~# apt-get install portaudio19-dev &&
-    root@chip:~# apt-get install swig &&
-    root@chip:~# apt-get install python-setup-tools &&
+    root@chip:~# apt-get install portaudio19-dev
+    root@chip:~# apt-get install swig
+    root@chip:~# apt-get install python-setup-tools
     root@chip:~# apt-get install python-dev
     root@chip:~# aplay -lL
     ...
