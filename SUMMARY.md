@@ -7,7 +7,6 @@
 * [SDK Flash](documentation/SdkFlash.md)
 * [ImageCustom](documentation/ImageCustom.md)
 * [StartUp](documentation/Startup.md)
-* [WiFi](documentation/WiFi.md)
 * [Kernel](documentation/Kernel.md)
 * [Buildroot](documentation/buildroot.md)
 * [Debian](documentation/Debian.md)
