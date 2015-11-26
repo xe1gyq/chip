@@ -10,7 +10,6 @@ Debian
     root@chip:~# apt-get upgrade
     root@chip:~# apt-get install wget htop mplayer
     root@chip:~# dpkg-reconfigure tzdata # TimeZone
-    root@chip:~# apt-get install xfce4
     root@chip:~# apt-get install -f
     root@chip:~# df -h
     Filesystem      Size  Used Avail Use% Mounted on
@@ -69,6 +68,7 @@ sunxi-codec as hardware
 
 ### VNC Server @ CHIP X Desktop
 
+    root@chip:~# apt-get install xfce4
     root@chip:~# apt-get install vnc4server
     chip@chip:~$ vnc4passwd 
     Password:
