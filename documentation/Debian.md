@@ -23,8 +23,8 @@ Debian
     root@chip:~# date -s "10/25/2015 18:41:30"
     root@chip:~# apt-get update
     root@chip:~# apt-get upgrade
-    root@chip:~# apt-get install wget htop git
     root@chip:~# dpkg-reconfigure tzdata # TimeZone
+    root@chip:~# apt-get install wget htop git
     root@chip:~# apt-get install -f
     root@chip:~# df -h
     Filesystem      Size  Used Avail Use% Mounted on
