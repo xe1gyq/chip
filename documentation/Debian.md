@@ -23,7 +23,7 @@ Debian
     root@chip:~# date -s "10/25/2015 18:41:30"
     root@chip:~# apt-get update
     root@chip:~# apt-get upgrade
-    root@chip:~# apt-get install wget htop mplayer
+    root@chip:~# apt-get install wget htop
     root@chip:~# dpkg-reconfigure tzdata # TimeZone
     root@chip:~# apt-get install -f
     root@chip:~# df -h
@@ -44,7 +44,7 @@ See [WiFi](https://xe1gyq.gitbooks.io/thechipworkshop/content/documentation/WiFi
 
 sunxi-codec as hardware
 
-    root@chip:~# apt-get install libasound2 alsa-utils
+    root@chip:~# apt-get install libasound2 alsa-utils mplayer
     root@chip:~# alsamixer
     root@chip:~# apt-get install portaudio19-dev &&
     root@chip:~# apt-get install swig &&
