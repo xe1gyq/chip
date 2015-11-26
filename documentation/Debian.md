@@ -146,7 +146,7 @@ sunxi-codec as hardware
     root@chip:~# alsamixer
     root@chip:~# apt-get install portaudio19-dev
     root@chip:~# apt-get install swig
-    root@chip:~# apt-get install python-setup-tools
+    root@chip:~# apt-get install python-setuptools
     root@chip:~# apt-get install python-dev
     root@chip:~# aplay -lL
     ...
