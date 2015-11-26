@@ -143,4 +143,7 @@ sunxi-codec as hardware
     root@chip:/home/chip/Intel.IoT.Roadshow/2015# apt-get install python-pip
     root@chip:/home/chip/Intel.IoT.Roadshow/2015# pip install plotly
     chip@chip:~/Intel.IoT.Roadshow/2015$ python core/xplotly.py
-    
+
+## Software Define Radio
+
+
