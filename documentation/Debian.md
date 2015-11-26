@@ -94,7 +94,6 @@ Debian
     # Wifi enumeration test...OK
     ### ALL TESTS PASSED ###
 
-
     root@chip:~# cat /proc/cpuinfo
     root@chip:~# uname -a
     root@chip:~# cat /proc/meminfo | head
