@@ -1,7 +1,7 @@
 Buildroot
 ==
 
-## WiFo
+## WiFi
 
     root@chip:~# connmanctl technologies
     /net/connman/technology/bluetooth
